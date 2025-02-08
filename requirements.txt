@@ -1,4 +1,6 @@
 requests==2.25.1
-flask==2.1.2
+flask==2.2.0
 python-dotenv==0.19.2
+Werkzeug==2.0.3
+
 
